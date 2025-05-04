@@ -1,0 +1,13 @@
+{
+    "name": "로프민캡슐",
+    "name_code": "17",
+    "type": "경질캡슐",
+    "shape": "타원형",
+    "color": "백색",
+    "type_name": "경질캡슐_타원형_백색",
+    "type_code" : "HEW",
+    "function": "지사효과",
+    "warning": ["영&유아X"],
+    "f_print": "LPM LPM",
+    "b_print": ""
+  }

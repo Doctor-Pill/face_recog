@@ -1,0 +1,13 @@
+{
+    "name": "무코란정",
+    "name_code": "03",
+    "type": "정제",
+    "shape": "원형",
+    "color": "백색",
+    "type_name": "정제_원형_백색",
+    "type_code" : "TCW",
+    "function": "위장막 보호",
+    "warning": ["발진발생"],
+    "f_print": "DMC",
+    "b_print": ""
+  }

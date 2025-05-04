@@ -1,0 +1,13 @@
+{
+    "name": "알테렌정",
+    "name_code": "15",
+    "type": "정제",
+    "shape": "장방형",
+    "color": "녹색",
+    "type_name": "정제_장방형_녹색",
+    "type_code" : "TRG",
+    "function": "위장막보호",
+    "warning": ["발진발생"],
+    "f_print": "60",
+    "b_print": "CT"
+  }

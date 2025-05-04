@@ -1,0 +1,13 @@
+{
+    "name": "코메키나캡슐",
+    "name_code": "23",
+    "type": "경질캡슐",
+    "shape": "타원형",
+    "color": "주황색",
+    "type_name": "경질캡슐_타원형_주황색",
+    "type_code" : "HEO",
+    "function": "비염 증상 개선",
+    "warning": ["기계조작X","알코올X"],
+    "f_print": "MQT DW",
+    "b_print": ""
+  }

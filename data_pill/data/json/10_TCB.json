@@ -1,0 +1,13 @@
+{
+    "name": "디크로닉정",
+    "name_code": "10",
+    "type": "정제",
+    "shape": "원형",
+    "color": "연청색",
+    "type_name": "정제_원형_연청색",
+    "type_code" : "TCB",
+    "function": "염증완화",
+    "warning": ["위장장애O","물O"],
+    "f_print": "DC125",
+    "b_print": ""
+  }

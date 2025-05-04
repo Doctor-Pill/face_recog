@@ -1,0 +1,13 @@
+{
+    "name": "메부란정",
+    "name_code": "02",
+    "type": "정제",
+    "shape": "원형",
+    "color": "백색",
+    "type_name": "정제_원형_백색",
+    "type_code" : "TCW",
+    "function": "위장관 운동 조절",
+    "warning": ["임부&수유부X"],
+    "f_print": "NB9",
+    "b_print": ""
+  }

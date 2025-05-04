@@ -1,0 +1,13 @@
+{
+    "name": "파미딘정",
+    "name_code": "09",
+    "type": "정제",
+    "shape": "원형",
+    "color": "연녹색",
+    "type_name": "정제_원형_연녹색",
+    "type_code" : "TCG",
+    "function": "소화기 증상 개선",
+    "warning": ["기계조작X", "금연", "카페인&알코올X"],
+    "f_print": "FM",
+    "b_print": "CKD"
+  }

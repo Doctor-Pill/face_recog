@@ -1,0 +1,13 @@
+{
+    "name": "오메가3",
+    "name_code": "29",
+    "type": "연질캡슐",
+    "shape": "타원형",
+    "color": "황색",
+    "type_name": "연질캡슐_타원형_황색",
+    "type_code" : "SEL",
+    "function": "",
+    "warning": "",
+    "f_print": "",
+    "b_print": ""
+  }

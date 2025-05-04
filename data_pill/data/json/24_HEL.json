@@ -1,0 +1,13 @@
+{
+    "name": "엑사드캡슐",
+    "name_code": "24",
+    "type": "경질캡슐",
+    "shape": "타원형",
+    "color": "담황색",
+    "type_name": "경질캡슐_타원형_담황색",
+    "type_code" : "HEL",
+    "function": "소화기 증상 개선",
+    "warning": ["기계조작X","금연","카페인&알코올X"],
+    "f_print": "kpp EXAD",
+    "b_print": ""
+  }

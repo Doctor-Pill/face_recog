@@ -1,0 +1,13 @@
+{
+    "name": "헤포웰연질캡슐",
+    "name_code": "30",
+    "type": "연질캡슐",
+    "shape": "타원형",
+    "color": "갈색",
+    "type_name": "연질캡슐_타원형_갈색",
+    "type_code" : "SER",
+    "function": "간세포 재생 촉진",
+    "warning": ["금연","알코올X"],
+    "f_print": "BP350",
+    "b_print": ""
+  }

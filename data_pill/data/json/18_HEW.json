@@ -1,0 +1,13 @@
+{
+    "name": "바이오탑하이포",
+    "name_code": "18",
+    "type": "경질캡슐",
+    "shape": "타원형",
+    "color": "백색",
+    "type_name": "경질캡슐_타원형_백색",
+    "type_code" : "HEW",
+    "function": "장내 세균총 정상화",
+    "warning": ["카페인X"],
+    "f_print": "BST-H 포르테",
+    "b_print": ""
+  }

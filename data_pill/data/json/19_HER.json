@@ -1,0 +1,13 @@
+{
+    "name": "에바코서방캡슐",
+    "name_code": "19",
+    "type": "경질캡슐",
+    "shape": "타원형",
+    "color": "적색",
+    "type_name": "경질캡슐_타원형_적색",
+    "type_code" : "HER",
+    "function": "비염 증상 개선",
+    "warning": ["기계조작X","쪼개기X"],
+    "f_print": "PL EBC",
+    "b_print": ""
+  }

@@ -1,0 +1,13 @@
+{
+    "name": "이큘레어정",
+    "name_code": "16",
+    "type": "정제",
+    "shape": "장방형",
+    "color": "베이지색",
+    "type_name": "정제_장방형_베이지색",
+    "type_code" : "TSI",
+    "function": "천식 증상 개선",
+    "warning": "",
+    "f_print": "ENKMTK",
+    "b_print": ""
+  }

@@ -1,0 +1,13 @@
+{
+    "name": "인후렉신",
+    "name_code": "22",
+    "type": "경질캡슐",
+    "shape": "타원형",
+    "color": "적색",
+    "type_name": "경질캡슐_타원형_적색",
+    "type_code" : "HEV",
+    "function": "기침치료",
+    "warning": ["발진발생"],
+    "f_print": "경남 인후렉신신",
+    "b_print": ""
+  }

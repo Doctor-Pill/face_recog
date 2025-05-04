@@ -1,0 +1,13 @@
+{
+    "name": "아젤라젠정",
+    "name_code": "07",
+    "type": "정제",
+    "shape": "원형",
+    "color": "노란색",
+    "type_name": "정제_원형_노란색",
+    "type_code" : "TCY",
+    "function": "알러지 증상 개선",
+    "warning": ["기계조작X","알코올X"],
+    "f_print": "ZLT",
+    "b_print": ""
+  }

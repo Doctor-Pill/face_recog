@@ -1,0 +1,13 @@
+{
+    "name": "타이레놀정 500",
+    "name_code": "12",
+    "type": "정제",
+    "shape": "타원형",
+    "color": "백색",
+    "type_name": "정제_타원형_백색",
+    "type_code" : "TEW",
+    "function": "통증해소",
+    "warning": ["물O", "알코올X"],
+    "f_print": "TYLEROL",
+    "b_print": "500"
+  }

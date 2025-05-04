@@ -1,0 +1,13 @@
+{
+    "name": "펠프스정",
+    "name_code": "08",
+    "type": "정제",
+    "shape": "원형",
+    "color": "미황색",
+    "type_name": "정제_원형_미황색",
+    "type_code" : "TCI",
+    "function": "해열 및 염증 완화",
+    "warning": ["임부&수유부X","물O","알코올X"],
+    "f_print": "FE",
+    "b_print": "YJ"
+  }

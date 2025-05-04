@@ -1,0 +1,13 @@
+{
+    "name": "루비돌플러스캡슐",
+    "name_code": "20",
+    "type": "경질캡슐",
+    "shape": "타원형",
+    "color": "연청색",
+    "type_name": "경질캡슐_타원형_연청색",
+    "type_code" : "HEB",
+    "function": "잇몸 염증 치료",
+    "warning": ["발진발생"],
+    "f_print": "Wal C51",
+    "b_print": ""
+  }

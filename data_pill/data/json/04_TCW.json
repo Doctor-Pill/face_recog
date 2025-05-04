@@ -1,0 +1,13 @@
+{
+  "name": "베포탄정",
+  "name_code": "04",
+  "type": "정제",
+  "shape": "원형",
+  "color": "백색",
+  "type_name": "정제_원형_백색",
+  "type_code" : "TCW",
+  "function": "알레르기 증상 개선",
+  "warning": ["기계조작X","물O","알코올X"],
+  "f_print": "BPT",
+  "b_print": ""
+}

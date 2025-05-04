@@ -1,0 +1,13 @@
+{
+    "name": "상남아세트아미노펜정",
+    "name_code": "11",
+    "type": "정제",
+    "shape": "타원형",
+    "color": "백색",
+    "type_name": "정제_타원형_백색",
+    "type_code" : "TEW",
+    "function": "통증해소",
+    "warning": ["다른약복용X","알코올X"],
+    "f_print": "AA5",
+    "b_print": ""
+  }

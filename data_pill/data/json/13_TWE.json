@@ -1,0 +1,13 @@
+{
+    "name": "씨엠지모사프리드정",
+    "name_code": "13",
+    "type": "정제",
+    "shape": "타원형",
+    "color": "백색",
+    "type_name": "정제_타원형_백색",
+    "type_code" : "TEW",
+    "function": "소화장애 개선",
+    "warning": ["기계조작X"],
+    "f_print": "CP7",
+    "b_print": ""
+  }

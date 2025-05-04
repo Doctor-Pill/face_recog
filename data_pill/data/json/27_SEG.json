@@ -1,0 +1,13 @@
+{
+    "name": "가세스판연질캡슐",
+    "name_code": "27",
+    "type": "연질캡슐",
+    "shape": "장방형",
+    "color": "녹색",
+    "type_name": "연질캡슐_장방형_녹색",
+    "type_code" : "SEG",
+    "function": "복부팽만감 개선",
+    "warning": ["기계조작X","발진발생"],
+    "f_print": "SNP GVS",
+    "b_print": ""
+  }

@@ -1,0 +1,13 @@
+{
+    "name": "비타민B",
+    "name_code": "15",
+    "type": "정제",
+    "shape": "타원형",
+    "color": "황색",
+    "type_name": "정제_타원형_황색",
+    "type_code" : "TEY",
+    "function": "신경계 건강 유지",
+    "warning": "",
+    "f_print": "",
+    "b_print": ""
+  }

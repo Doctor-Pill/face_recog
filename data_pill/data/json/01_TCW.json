@@ -1,0 +1,13 @@
+{
+    "name": "브로피딘정",
+    "name_code": "01",
+    "type": "정제",
+    "shape": "원형",
+    "color": "백색",
+    "type_name": "정제_원형_백색",
+    "type_code" : "TCW",
+    "function": "기침 중상 완화",
+    "warning": ["발진발생"],
+    "f_print": "MMBP",
+    "b_print": ""
+  }

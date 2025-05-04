@@ -1,0 +1,13 @@
+{
+    "name": "뮤시딘캡슐",
+    "name_code": "21",
+    "type": "경질캡슐",
+    "shape": "타원형",
+    "color": "청색",
+    "type_name": "경질캡슐_타원형_청색",
+    "type_code" : "HEN",
+    "function": "호흡기 질환 개선",
+    "warning": ["카페인&알코올X"],
+    "f_print": "DHNP MUC",
+    "b_print": ""
+  }

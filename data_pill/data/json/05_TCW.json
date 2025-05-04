@@ -1,0 +1,13 @@
+{
+    "name": "아페손SR서방정",
+    "name_code": "05",
+    "type": "정제",
+    "shape": "원형",
+    "color": "백색",
+    "type_name": "정제_원형_백색",
+    "type_code" : "TCW",
+    "function": "근경련 감소",
+    "warning": ["쪼개기X","임부&수유부X","알코올X"],
+    "f_print": "AFS75",
+    "b_print": ""
+  }

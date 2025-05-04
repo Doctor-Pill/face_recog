@@ -1,0 +1,13 @@
+{
+    "name": "티로프람정",
+    "name_code": "06",
+    "type": "정제",
+    "shape": "원형",
+    "color": "백색",
+    "type_name": "정제_원형_백색",
+    "type_code" : "TCW",
+    "function": "진통 효과",
+    "warning": ["물O"],
+    "f_print": "AUK",
+    "b_print": "TP"
+  }

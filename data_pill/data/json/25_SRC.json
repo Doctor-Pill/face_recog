@@ -1,0 +1,13 @@
+{
+    "name": "비타민D",
+    "name_code": "25",
+    "type": "연질캡슐",
+    "shape": "장방형",
+    "color": "갈색",
+    "type_name": "연집캡슐_장방형_갈색",
+    "type_code" : "SRC",
+    "function": "",
+    "warning": "",
+    "f_print": "",
+    "b_print": ""
+  }
